@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c4b74ff-82e5-4504-ae07-d739eebe8016" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="355uUZ7YBLROra6WUgAGFNa3d0W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CallingFuncnOfStudent.executor": "Run",
+    "Application.Continue.executor": "Run",
+    "Application.FractionAdd.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.Geeks.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainBox.executor": "Run",
+    "Application.MethodOverride.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.PersonMain.executor": "Run",
+    "Application.PinBallGame.executor": "Run",
+    "Application.StudentClass.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.aPowerB.executor": "Run",
+    "Application.addMatrix.executor": "Run",
+    "Application.addNoUsingMethods.executor": "Run",
+    "Application.ageGroup.executor": "Run",
+    "Application.arraySortedOrNot.executor": "Run",
+    "Application.binaryToDecimal.executor": "Run",
+    "Application.cloningofArray.executor": "Run",
+    "Application.countDigits.executor": "Run",
+    "Application.dayNumber.executor": "Run",
+    "Application.decimalToBinary.executor": "Run",
+    "Application.decreaseArraySortBYSquare.executor": "Run",
+    "Application.decreaseArraySortBySquare.executor": "Run",
+    "Application.equalPartitionSum.executor": "Run",
+    "Application.evenAndDivisibleBy3.executor": "Run",
+    "Application.evenOdd.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.findSecondMax.executor": "Run",
+    "Application.findSecondMin.executor": "Run",
+    "Application.findUnique.executor": "Run",
+    "Application.firstMultiple5And7.executor": "Run",
+    "Application.firstRepeating.executor": "Run",
+    "Application.helloWorld.executor": "Run",
+    "Application.hollowNumericalPyramid.executor": "Run",
+    "Application.hollowRectangle.executor": "Debug",
+    "Application.internal.executor": "Run",
+    "Application.largestAndSmallest.executor": "Run",
+    "Application.lastOccurenceInArray.executor": "Run",
+    "Application.lastRepeating.executor": "Run",
+    "Application.linearSearchInArray.executor": "Run",
+    "Application.matrixInSpiral.executor": "Run",
+    "Application.maxValueInArray.executor": "Run",
+    "Application.multipleClasse.executor": "Run",
+    "Application.multipleClasses.executor": "Run",
+    "Application.multiplication.executor": "Run",
+    "Application.numberPyramid.executor": "Run",
+    "Application.numberTriangle.executor": "Run",
+    "Application.numberTriangular.executor": "Run",
+    "Application.numericalPattern.executor": "Run",
+    "Application.occurenceOfNo.executor": "Run",
+    "Application.pairsSum.executor": "Run",
+    "Application.pascalTriangle.executor": "Run",
+    "Application.passingReference.executor": "Run",
+    "Application.pattern1212.executor": "Run",
+    "Application.prefixSum.executor": "Run",
+    "Application.prime1to100.executor": "Run",
+    "Application.primeNo.executor": "Run",
+    "Application.printNaturalByFor.executor": "Run",
+    "Application.printNaturalNo.executor": "Run",
+    "Application.pyramidPattern.executor": "Run",
+    "Application.qTimesQuery.executor": "Run",
+    "Application.queryPrefixSum.executor": "Run",
+    "Application.readCharacter.executor": "Run",
+    "Application.rectangularPattern.executor": "Run",
+    "Application.reverseDigits.executor": "Run",
+    "Application.reversedTriangular.executor": "Run",
+    "Application.reversingArray.executor": "Run",
+    "Application.reversingWithoutArray.executor": "Run",
+    "Application.rotateArray.executor": "Run",
+    "Application.rotateArrayBy90.executor": "Run",
+    "Application.rotateInPlaceArray.executor": "Run",
+    "Application.seriesSum.executor": "Run",
+    "Application.simpleInterest.executor": "Run",
+    "Application.smallestAndLargestELement.executor": "Run",
+    "Application.sorry.executor": "Run",
+    "Application.sort0And1WithExtraArray.executor": "Run",
+    "Application.sort0and1InArray.executor": "Run",
+    "Application.sortEvenOdd.executor": "Run",
+    "Application.spiralSquareOrder.executor": "Run",
+    "Application.studentclass.executor": "Run",
+    "Application.suffixSum.executor": "Run",
+    "Application.suffixSumArray.executor": "Run",
+    "Application.sumDigits.executor": "Run",
+    "Application.sumElementsInArray.executor": "Run",
+    "Application.sumFirstNatural.executor": "Run",
+    "Application.sumStreamIntegers.executor": "Run",
+    "Application.sumoftwono.executor": "Run",
+    "Application.swapping.executor": "Run",
+    "Application.transpose.executor": "Run",
+    "Application.transposeInPlace.executor": "Run",
+    "Application.triangularPattern.executor": "Run",
+    "Application.triplet.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/pkg65/OneDrive/Desktop/java intellij/helloWorld/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration type="Application" factoryName="Application" folderName="New Folder">
+      <option name="MAIN_CLASS_NAME" value="hollowRectangle" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4b74ff-82e5-4504-ae07-d739eebe8016" name="Changes" comment="" />
+      <created>1762412270093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762412270093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/internal.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OOPSONESHOT/Abstraction/Interfaces/Main.java</url>
+          <line>16</line>
+          <properties class="OOPSONESHOT.Abstraction.Interfaces.Circle" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
